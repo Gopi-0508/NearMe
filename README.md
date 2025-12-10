@@ -25,7 +25,6 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-'''
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,8 +44,6 @@ Execute the programs and publish them.
 </map>
 </body>
 </html>
-'''
-
 ## OUTPUT
 ![alt text](<place/placeapp/static/Screenshot 2025-12-10 175813.png>)
 
