@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,7 +46,7 @@ Execute the programs and publish them.
 </map>
 </body>
 </html>
-'''
+```
 
 ## OUTPUT
 
