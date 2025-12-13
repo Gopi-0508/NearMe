@@ -46,6 +46,48 @@ Execute the programs and publish them.
 </map>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goverment Musium.html</title>
+</head>
+<body>
+    <IMG SRC="Govrt.png"HEIGHT="500"WIDTH="800"BORDER=6>
+        <h2>The Government Museum in Chennai (Madras Museum) is India's second-oldest museum, located in Egmore, housing vast collections in its six buildings, including stunning South Indian bronze sculptures (like Nataraja), Roman antiquities (largest outside Europe), Amaravati Buddhist sculptures, natural history exhibits, and the National Art Gallery with rare paintings, offering a comprehensive journey through India's art, history, and culture from ancient to modern times. </h2>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kamadeswar Temple.html</title>
+</head>
+<body>
+    <IMG SRC="Kalikamal.png"HEIGHT="450"WIDTH="350"BORDER=6>             <IMG SRC="kk.png"HEIGHT="450"WIDTH="350"BORDER=6>
+  <ht>The Kalikambal Kamadeswarar Temple, located on Thambu Chetty Street in Chennai's historic George Town, is an ancient Hindu shrine dedicated to Goddess Kalikambal (a form of Parvati) and Lord Kamadeswarar (a form of Shiva), known for its Dravidian architecture and significant history, including a visit by Chhatrapati Shivaji in 1677 and regular patronage by Subramaniya Bharati, with its deities originally in a fierce form that was later softened, making it a popular spot for devotees seeking fulfillment of wishes. 
+Deities: Goddess Kalikambal (Shakti) & Lord Kamadeswarar (Shiva).
+Location: Thambu Chetty Street, Parry's Corner (George Town), Chennai.
+History: Built in the 17th century, once located inside St. George Fort, shifted to its current spot.
+Significance: Fierce deity form changed to calm posture by Adi Shankaracharya; believed to grant wishes; visited by Shivaji & Bharati.</h2>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goverment Musium.html</title>
+</head>
+<body>
+    <IMG SRC="Th.png"HEIGHT="250"WIDTH="600"BORDER=6>
+        <h2>The Thiruvalleeswarar Temple, located in the Padi area of Chennai, is an ancient and revered Hindu temple dedicated to Lord Shiva. This historic shrine is a "Paadal Petra Sthalam," one of the 275 Shiva temples celebrated in the 7th-century Tamil canonical work, the Tevaram, and features a unique Gajaprishta (elephant-back) style vimana (sanctum tower). Legend has it that the presiding deity was worshipped by several figures, including Sage Bharadwaja (in the form of a sparrow), Lord Rama, Hanuman, the Sun, and the Moon Gods. Notably, the temple is a significant Guru Parihara Sthalam (a remedial place of worship for the planet Jupiter), with a special shrine for Guru Bhagavan, where devotees offer yellow clothes and chickpea garlands on Thursdays to mitigate adverse planetary effects and seek blessings for wisdom and marriage. The temple also uniquely features Lord Ganesha with his two consorts, Kamali and Valli, making it a place of prayer for those seeking marriage alliances.
+            The Thiruvalleeswarar Temple in Padi, Chennai, is an ancient and important Hindu temple dedicated to Lord Shiva. It is one of the 275 Shiva temples mentioned in the Tevaram, a 7th-century Tamil text, and is known for its Gajaprishta (elephant-back) style vimana. Legends say that various figures, including Sage Bharadwaja (as a sparrow), Lord Rama, Hanuman, and the Sun and Moon Gods, worshipped the deity here. The temple is particularly significant as a Guru Parihara Sthalam, a place for seeking remedies related to the planet Jupiter, and features a shrine for Guru Bhagavan where devotees offer yellow items on Thursdays. Another unique aspect is the shrine for Lord Ganesha with his consorts Kamali and Valli, making it a place to pray for marriage blessings. You can find more information about the temple's history and architecture 
+        </h2>
+</body>
+</html>
 ```
 
 ## OUTPUT
